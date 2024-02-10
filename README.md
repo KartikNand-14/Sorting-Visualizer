@@ -13,16 +13,6 @@ This project is a web-based sorting visualizer that allows users to visualize va
 - Adjustable speed control for visualization
 - Random array generation for sorting
 
-## Installation
-
-1. Clone the repository to your local machine:
-git clone https://github.com/your-username/sorting-visualizer.git
-
-2. Navigate to the project directory:
-cd sorting-visualizer
-
-3. Open the `index.html` file in a web browser.
-
 ## Usage
 
 1. Upon opening `index.html` in your web browser, you will see a visual representation of an unsorted array of bars.
